@@ -1,5 +1,5 @@
 # whyred-demo
-Intentionally broken CI. 4 GitHub Actions workflows that fail on purpose (test, dependency, type, lint), used as live samples and eval cases for WhyRed.
+Intentionally broken CI pipelines. 4 GitHub Actions workflows that fail on purpose (test, dependency, type, lint), used as live samples and eval cases for WhyRed.
 
 | Workflow | Failing step | Root cause |
 | --- | --- | --- |
