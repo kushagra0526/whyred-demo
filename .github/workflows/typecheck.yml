@@ -10,4 +10,4 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npx --yes typescript@5 tsc --noEmit
+      - run: npx --yes -p typescript@5 tsc --noEmit src/broken.ts
